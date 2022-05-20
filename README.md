@@ -9,6 +9,9 @@ Matlab Study Project
      欢迎大家交流学习！
 
 #### 更新日志
+2022/05/20<br>
+更新Joseph Transformation，现在可以直接处理矩阵<br>
+<br>
 2022/05/18<br>
 完善与测试本库压缩感知算法<br>
 <br>
